@@ -4,7 +4,6 @@ go 1.25.0
 
 require (
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/signalfx/kubectl-splunk v0.3.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	k8s.io/api v0.35.1
