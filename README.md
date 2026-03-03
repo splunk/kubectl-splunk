@@ -11,7 +11,7 @@ Status: beta
 
 ## Installation
 
-Download the [latest release](https://github.com/signalfx/kubectl-splunk/releases) and copy the `kubectl-splunk` binary
+Download the [latest release](https://github.com/splunk/kubectl-splunk/releases) and copy the `kubectl-splunk` binary
 to `/usr/local/bin` or somewhere in your `$PATH`.
 
 ## Usage
