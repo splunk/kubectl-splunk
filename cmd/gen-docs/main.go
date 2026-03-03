@@ -17,7 +17,7 @@ package main
 import (
 	"log"
 
-	"github.com/signalfx/kubectl-splunk/pkg/cli"
+	"github.com/splunk/kubectl-splunk/pkg/cli"
 
 	"github.com/spf13/cobra/doc"
 )

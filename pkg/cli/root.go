@@ -20,7 +20,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/signalfx/kubectl-splunk/pkg/kubectl"
+	"github.com/splunk/kubectl-splunk/pkg/kubectl"
 
 	"github.com/mitchellh/go-homedir"
 	"github.com/spf13/viper"

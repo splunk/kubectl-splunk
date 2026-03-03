@@ -1,4 +1,4 @@
-module github.com/signalfx/kubectl-splunk
+module github.com/splunk/kubectl-splunk
 
 go 1.15
 
