@@ -5,7 +5,7 @@
 A kubectl plugin for interacting with splunk-otel-collector deployments. It can query collector pods, daemonsets, etc.
 with a query selector already set (`--selector app=splunk-otel-collector`).
 The [support](./docs/kubectl-splunk_support.md) command can be used to gather all relevant spec files (excluding
-secrets) as well as the pod log files.
+secrets) as well as the pod log files. Once collected please submit the .zip folder to support using the [Splunk Support Portal](https://www.splunk.com/en_us/investor-relations/acquisitions/signalfx.html).
 
 Status: beta
 
